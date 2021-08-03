@@ -1,0 +1,10 @@
+.create {
+    display: flex;
+    justify-content: center;
+    margin-top: .5rem;
+}
+
+.create-group-btn {
+    display: flex;
+    justify-content: flex-end;
+}

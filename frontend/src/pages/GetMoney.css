@@ -1,0 +1,11 @@
+.get-money {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.get-money .get-money-card {
+    width: 70vw;
+    height: 35vh;
+}
+

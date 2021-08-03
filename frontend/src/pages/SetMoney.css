@@ -1,0 +1,10 @@
+.set-money {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.set-money .set-money-card {
+    width: 70vw;
+    height: 35vh;
+}

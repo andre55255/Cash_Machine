@@ -1,0 +1,10 @@
+.auth {
+    display: flex;
+    justify-content: center;
+    margin-top: .5rem;
+}
+
+.auth-group-btn {
+    display: flex;
+    justify-content: flex-end;
+}

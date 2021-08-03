@@ -1,0 +1,15 @@
+.card-status {
+    width: 50vw;
+    text-align: center;
+    font-size: 1rem;
+    height: 35vh;
+}
+
+.card-status .items {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-status .items > span {
+    margin: .2rem .5rem;
+}

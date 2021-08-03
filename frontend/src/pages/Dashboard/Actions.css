@@ -1,0 +1,28 @@
+.card-actions {
+    width: 50vw;
+    height: 50vh;
+}
+
+.card-actions .card-actions-options {
+    display: flex;
+    justify-content: space-between;
+    height: 40vh;
+}
+
+.card-actions .card-actions-options .card-actions-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 22vw;
+}
+
+.card-actions .card-actions-options .card-actions-items > button {
+    padding: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-actions .card-actions-options .card-actions-items > button > a {
+    font-size: 1.1rem;
+}
